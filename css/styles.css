@@ -151,9 +151,8 @@ a.white {
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #23272A;
 	border-radius: 2rem;
-	background-color: #23272A;
+	background: linear-gradient(90deg, rgba(0,209,136,1) 0%, rgba(106,249,174,1) 100%);
 	color: #fff;
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	text-decoration: none;
@@ -161,7 +160,7 @@ a.white {
 }
 
 .btn-solid-reg:hover {
-	background-color: transparent;
+	background-color: #23272A;
 	color: #23272A;
 	text-decoration: none;
 }
