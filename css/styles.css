@@ -898,7 +898,7 @@ input[type='checkbox'] {
 .tabs {
 	padding-top: 8rem;
 	padding-bottom: 8.125rem;
-	background-color: #7289DA;
+	background: #7289DA;
 }
 
 .tabs .h2-heading,
@@ -1075,7 +1075,6 @@ input[type='checkbox'] {
 .basic-1 {
 	padding-top: 7.5rem;
 	padding-bottom: 8rem;
-	background-color: #2C2F33;
 }
 
 .basic-1 .text-container {
