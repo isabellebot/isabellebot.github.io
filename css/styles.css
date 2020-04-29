@@ -169,7 +169,7 @@ a.white {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #23272A;
+	border: 0.125rem linear-gradient(90deg, rgba(0,209,136,1) 0%, rgba(106,249,174,1) 100%);;
 	border-radius: 2rem;
 	background-color: #23272A;
 	color: #fff;
@@ -815,9 +815,7 @@ input[type='checkbox'] {
 	margin-right: 0.5rem;
 	margin-bottom: 1.125rem;
 	margin-left: 0.5rem;
-	border-color: #f3f7fd;
-	background-color: #f3f7fd;
-	color: #23272A;
+	color: #fff;
 }
 
 .header .btn-solid-lg:hover {
@@ -826,12 +824,11 @@ input[type='checkbox'] {
 }
 
 .header .btn-outline-lg {
-	border-color: #f3f7fd;
-	color: #f3f7fd;
+	color: linear-gradient(90deg, rgba(0,209,136,1) 0%, rgba(106,249,174,1) 100%);
 }
 
 .header .btn-outline-lg:hover {
-	background-color: #f3f7fd;
+	background-color: linear-gradient(90deg, rgba(0,209,136,1) 0%, rgba(106,249,174,1) 100%);
 	color: #23272A;
 }
 
@@ -1658,6 +1655,7 @@ a:hover.back-to-top {
 	.header .btn-solid-lg {
 		margin-bottom: 0;
 		margin-left: 0;
+		background: linear-gradient(90deg, rgba(0,209,136,1) 0%, rgba(106,249,174,1) 100%);
 	}
 
 	.header-frame {
