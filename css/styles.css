@@ -859,7 +859,7 @@ input[type='checkbox'] {
 	padding-top: 3.25rem;
 	padding-bottom: 3rem;
 	text-align: center;
-  background-color: #2C2F33;
+  	background-color: #2C2F33;
 }
 
 .cards-1 .h2-heading {
@@ -898,7 +898,7 @@ input[type='checkbox'] {
 .tabs {
 	padding-top: 8rem;
 	padding-bottom: 8.125rem;
-	background-color: #f3f7fd;
+	background-color: #7289DA;
 }
 
 .tabs .h2-heading,
@@ -1075,6 +1075,7 @@ input[type='checkbox'] {
 .basic-1 {
 	padding-top: 7.5rem;
 	padding-bottom: 8rem;
+	background-color: #2C2F33;
 }
 
 .basic-1 .text-container {
