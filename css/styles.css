@@ -48,56 +48,56 @@ html {
 
 body, p {
 	color: #555;
-	font: 400 1rem/1.625rem "Open Sans", sans-serif;;
+	font-family: 'Nunito', sans-serif;
 }
 
 .p-large {
-	font: 400 1.125rem/1.75rem "Open Sans", sans-serif;
+	font-family: 'Nunito', sans-serif;
 }
 
 .p-small {
-	font: 400 0.875rem/1.5rem "Open Sans", sans-serif;
+	font-family: 'Nunito', sans-serif;
 }
 
 h1 {
 	color: #333;
-	font: 700 2.5rem/3.125rem "Open Sans", sans-serif;
+	font-family: 'Nunito', sans-serif;
 	letter-spacing: -0.2px;
 }
 
 h2 {
 	color: #333;
-	font: 700 2rem/2.625rem "Open Sans", sans-serif;
+	font-family: 'Nunito', sans-serif;
 	letter-spacing: -0.2px;
 }
 
 h3 {
 	color: #333;
-	font: 700 1.625rem/2.125rem "Open Sans", sans-serif;
+	font-family: 'Nunito', sans-serif;
 	letter-spacing: -0.2px;
 }
 
 h4 {
 	color: #333;
-	font: 700 1.375rem/1.75rem "Open Sans", sans-serif;
+	font-family: 'Nunito', sans-serif;
 	letter-spacing: -0.1px;
 }
 
 h5 {
 	color: #333;
-	font: 700 1.125rem/1.5rem "Open Sans", sans-serif;
+	font-family: 'Nunito', sans-serif;
 	letter-spacing: -0.1px;
 }
 
 h6 {
 	color: #333;
-	font: 700 1rem/1.375rem "Open Sans", sans-serif;
+	font-family: 'Nunito', sans-serif;
 	letter-spacing: -0.1px;
 }
 
 .above-heading {
 	color: #23272A;
-	font: 700 0.75rem/0.875rem "Open Sans", sans-serif;
+	font-family: 'Nunito', sans-serif;
 	text-align: center;
 }
 
@@ -110,7 +110,7 @@ h6 {
 }
 
 .testimonial-author {
-	font: 700 1rem/1.625rem "Open Sans", sans-serif;
+	font-family: 'Nunito', sans-serif;
 	letter-spacing: -0.1px;
 }
 
