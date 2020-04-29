@@ -786,7 +786,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background-color: #23272A;
+	background-color: #eabb85;
 }
 
 .header .header-content {
@@ -848,12 +848,12 @@ input[type='checkbox'] {
 .slider-1 {
 	padding-top: 5rem;
 	padding-bottom: 3.25rem;
-  background-color: #2C2F33;
+  background-color: #548b85;
 }
 
 .slider-1 .slider-container {
 	text-align: center;
-  	background-color: #2C2F33;
+  	background-color: #548b85;
 }
 
 
@@ -864,7 +864,7 @@ input[type='checkbox'] {
 	padding-top: 3.25rem;
 	padding-bottom: 3rem;
 	text-align: center;
-  	background-color: #2C2F33;
+  	background-color: #548b85;
 }
 
 .cards-1 .h2-heading {
