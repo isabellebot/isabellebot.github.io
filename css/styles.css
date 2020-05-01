@@ -850,6 +850,11 @@ input[type='checkbox'] {
   	background-color: #548b85;
 }
 
+.slider-1 .h2-heading {
+	text-align: center;
+	font-size: 120%;
+}
+
 .slider-1 .slider-container {
 	text-align: center;
   	background-color: #548b85;
