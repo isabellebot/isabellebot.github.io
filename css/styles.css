@@ -231,7 +231,7 @@ a.white {
 }
 
 .btn-outline-sm:hover {
-	background-color: linear-gradient(-90deg, rgba(87,201,141,1) 0%, rgba(0,138,90,1) 100%)
+	background-color: linear-gradient(-90deg, rgba(87,201,141,1) 0%, rgba(0,138,90,1) 100%);
 	color: #fff;
 	text-decoration: none;
 }
@@ -1095,7 +1095,7 @@ input[type='checkbox'] {
 }
 
 .basic-1 .list-unstyled .fas {
-	color: #23272A;
+	color: #fff;
 	font-size: 0.5rem;
 	line-height: 1.625rem;
 }
