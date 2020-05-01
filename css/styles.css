@@ -821,7 +821,7 @@ input[type='checkbox'] {
 }
 
 .header .btn-solid-lg:hover {
-	background: transparent;
+	background: linear-gradient(90deg, rgba(87,201,141,0.01) 0%, rgba(0,138,90,0.01) 100%);
 	color: #f3f7fd;
 }
 
