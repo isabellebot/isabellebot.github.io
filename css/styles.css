@@ -162,8 +162,8 @@ a.white {
 }
 
 .btn-solid-reg:hover {
-	background-color: #23272A;
-	color: #23272A;
+	background-color: linear-gradient(-90deg, rgba(87,201,141,1) 0%, rgba(0,138,90,1) 100%);
+	color: #fff;
 	text-decoration: none;
 }
 
@@ -821,8 +821,8 @@ input[type='checkbox'] {
 }
 
 .header .btn-solid-lg:hover {
-	background: linear-gradient(90deg, rgba(87,201,141,0.01) 0%, rgba(0,138,90,0.01) 100%);
-	color: #f3f7fd;
+	background: linear-gradient(-90deg, rgba(87,201,141,1) 0%, rgba(0,138,90,1) 100%);
+	color: #fff;
 }
 
 .header .btn-outline-lg {
